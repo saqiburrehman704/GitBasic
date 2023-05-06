@@ -1,1 +1,3 @@
-print("Python file my local conflict")
+
+
+print("Python file for conflicts issue")
